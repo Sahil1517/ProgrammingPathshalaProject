@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "url shortner",
   "main": "index.js",
+  "repository": "https://github.com/sauravhathi",
+  "author": "Saurav Hathi",
   "license": "MIT",
   "scripts": {
     "start": "nodemon index.js",
